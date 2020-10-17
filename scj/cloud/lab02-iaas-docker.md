@@ -1,5 +1,5 @@
 # Lab 2 - Docker
-
+##Check
 ## Criando a instancia
 Usaremos a imagem oficial `Ubuntu Linux 18.04` para aprender alguns conceitos importantes do Docker:
  - instalação
