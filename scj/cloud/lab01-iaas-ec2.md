@@ -1,5 +1,5 @@
 # Lab 1 - AWS EC2
-
+##CHECK3
 ## Criando a instancia
 Usaremos a imagem oficial `Amazon Linux` para aprender alguns conceitos importantes do EC2:
  - ***flavors***
